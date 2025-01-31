@@ -1,6 +1,7 @@
 # Noteworthy Web App
 
 Welcome to **Noteworthy**, a user-friendly note-taking RESTful API designed to help developers create and manage notes securely.
+The Noteworthy API is a robust and secure RESTful web service designed to manage and organize notes for users. It provides a seamless platform for users to create, get, update, and delete notes while ensuring data integrity and confidentiality. The API offers endpoints to handle user authentication, note management, and user-specific operations. By following REST principles, the Noteworthy API delivers a scalable and efficient solution for users to store and access their notes securely.
 
 ## Features
 - User signup and login
